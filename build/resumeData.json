@@ -1,0 +1,215 @@
+{
+  "main": {
+    "name":"Jamison M.B. Meader",
+    "description":"Lover of words, treasurer of stories",
+    "image":"profilepic.jpg",
+    "background": "background.jpg",
+    "bio":"Detail-oriented marketing and content manager specializing in crafting resonant and visually compelling copy across multiple channels. Equally comfortable working independently or as part of a creative team; a committed lifelong learner eager to excel and make an impact within a dynamic, mission-driven professional community. Lover of words, treasurer of stories.",
+    "contactmessage":"Looking forward to hearing from you!",
+    "email": "JMeader6446@gmail.com",
+    "phone": "207-715-1427",
+    "linkedin":"https://www.linkedin.com/in/jmbmeader/",
+    "portfolio":"https://drive.google.com/drive/folders/1ujPwX6SQahtq1g8JKPisQNHmjWDTpAW8",
+    "address":{
+      "city":"Chicago",
+      "state":"IL"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "background.jpg",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/jmbmeader/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"google",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa-regular fa-question-circle"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Brown University",
+        "degree":"Masters of Arts, Teaching - Secondary Education",
+        "graduated":"May 2018",
+        "description":"As a graduate student, I built on my previous years of training in theoretical and practical frameworks for communicating about and teaching the craft of writing. My concentration on language development and multilingual pedagogies helped me hone my ability to break down and differentiate complex, technical content into accessible chunks based on the needs of diverse audiences."
+      },
+      {
+        "school":"Brown University",
+        "degree":"Bachelor of Arts, Comparative Literature - English & Arabic",
+        "graduated":"May 2017",
+        "description":"As an undergraduate, my work in comparative literature integrated an intensive language study in Arabic with a comprehensive curriculum in literary theory and analysis. Working across traditions, genres, and languages, I was able to nurture my deep love of words and stories, all the while cultivating a keen—and global—sensibility as a reader, writer, and citizen."
+      }
+    ],
+    "work":[
+      {
+        "company":"Future Founders",
+        "title":"Marketing Manager",
+        "years":"August 2022 - Present",
+        "description":"As Marketing Manager, I consider myself ‘Storyteller-in-Chief’ at Future Founders. In this role, I leverage a wide variety of channels, media, and technical platforms to strategize and execute all organizational marketing and communications efforts."
+      },
+      {
+        "company":"Cambridge Proofreading LLC",
+        "title":"Freelance Editor",
+        "years":"May 2022 - May 2023",
+        "description":"During my time as a freelancer at Cambridge Proofreading LLC, I provided ad hoc proofreading, copyediting, and revision feedback on written material representing a vast range of genres and industries. From economics and engineering to philosophy and physics, I leveraged my training as a writing instructor to deliver high-quality technical feedback on writing structure, syntax, and craft."
+      },
+      {
+        "company":"Gemini Middle School",
+        "title":"ELA Secondary Education Teacher",
+        "years":"August 2021 - August 2022",
+        "description":"As 8th Grade English Language Arts teacher, I developed and executed backward-designed reading and writing curricula in alignment with course objectives, state standards, and institutional goals. Working with a student population representing a diverse set of learning needs and levels of English proficiency, I designed and implemented skills- and project-based learning units emphasizing craft, literacy, voice, and purpose."
+      },
+      {
+        "company":"Lake Forest Country Day School",
+        "title":"Middle School Social Studies Teacher",
+        "years":"August 2020 - August 2021",
+        "description":"At Lake Forest Country Day, I was single-handedly responsible for modernizing and rebuilding 7th and 8th grade-level Social Studies curricula based on best practices in culturally responsive pedagogy. I capably balanced multiple unit plans across two grade levels and delivered high quality and impactful learning experiences for all students."
+      },
+      {
+        "company":"King's Academy - Madaba, Jordan",
+        "title":"Middle School English & Drama Teacher/ Upper School Dorm Faculty",
+        "years":"July 2018 - July 2020",
+        "description":"At King’s Academy, I leveraged my background in Arabic and language acquisition pedagogy to develop and execute highly differentiated 7th and 8th grade-level English and Drama curricula. Additionally, I independently developed and facilitated numerous professional learning sessions for colleagues and administrators based on best practices in literacy, English Language Learning, and gender/sexuality-inclusive pedagogy. I also designed and directed the first-ever production of Jeremy Bloom’s Peter/Wendy performed outside the United States (with direct permission from the playwright himself)."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Copy-editing",
+        "level":"90%"
+      },
+      {
+        "name":"Writing",
+        "level":"95%"
+      },
+      {
+        "name":"Communciation",
+        "level":"90%"
+      },
+      {
+        "name":"Project Management",
+        "level":"85%"
+      },
+      {
+        "name":"Microsoft Suite",
+        "level":"80%"
+      },
+      {
+        "name":"MailChimp",
+        "level":"65%"
+      },
+      {
+        "name":"GSuite",
+        "level":"80%"
+      },
+      {
+        "name":"Trello",
+        "level":"70%"
+      },
+      {
+        "name":"Adobe Creative Suite",
+        "level":"80%"
+      },
+      {
+        "name":"AirTable",
+        "level":"80%"
+      },
+      {
+        "name":"Microsoft Office",
+        "level":"80%"
+      },
+      {
+        "name":"Google Analytics",
+        "level":"80%"
+      },
+      {
+        "name":"UX/Graphic & Web Design",
+        "level":"80%"
+      },
+      {
+        "name":"CRM (WordPress)",
+        "level":"70%"
+      },
+      {
+        "name":"Cross-functional Collaboration",
+        "level":"80%"
+      },
+      {
+        "name":"Organization & Time Management",
+        "level":"85%"
+      },
+      {
+        "name":"HTML/CSS",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Annual Report",
+        "category":"",
+        "image":"01.jpg",
+        "url":"https://www.futurefounders.com/news-article/future-founders-2021-22-annual-report/"
+      },
+      {
+        "title":"Interview Spotlight",
+        "category":"",
+        "image":"02.jpg",
+        "url":"https://www.futurefounders.com/news-article/building-an-inclusive-brand-be-ready-to-listen/"
+      },
+      {
+        "title":"Technical Content Series",
+        "category":"",
+        "image":"03.jpg",
+        "url":"https://www.futurefounders.com/news-article/thinklikeafounder_startup_fundraising_part1_fundraising101/"
+      },
+      {
+        "title":"Press Release",
+        "category":"",
+        "image":"04.jpg",
+        "url":"https://www.futurefounders.com/news-article/future-founders-appoints-jason-vandeboom-as-board-chair-brad-keywell-as-founding-chair/"
+      },
+      {
+        "title":"LinkedIn Announcement",
+        "category":"",
+        "image":"05.jpg",
+        "url":"https://www.linkedin.com/feed/update/urn:li:activity:7082443439534985217"
+      },
+      {
+        "title":"Twitter Post",
+        "category":"",
+        "image":"05.jpg",
+        "url":"https://twitter.com/FutureFounders/status/1676396852378230784?s=20"
+      },
+      {
+        "title":"Instagram Post",
+        "category":"",
+        "image":"05.jpg",
+        "url":"https://www.instagram.com/p/CtKEIOVAY4i/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA%3D%3D"
+      },
+      {
+        "title":"LinkedIn Announcement",
+        "category":"",
+        "image":"05.jpg",
+        "url":"https://www.linkedin.com/posts/future-founders_thinklikeafounder-founderspotlightseries-activity-7087877848698363904-LCPO?utm_source=share&utm_medium=member_desktop"
+      },
+      {
+        "title":"Program Announcement",
+        "category":"",
+        "image":"09.jpg",
+        "url":"https://www.futurefounders.com/news-article/future-founders-announces-first-national-cohort-of-be-your-own-boss-powered-by-fetch-rewards/"
+      },
+      {
+        "title":"Porgram Enlistment",
+        "category":"",
+        "image":"10.jpg",
+        "url":"https://www.futurefounders.com/news-article/future-founders-and-ford-motor-company-fund-award-12500-in-college-scholarships/"
+      }
+    ]
+  }
+}

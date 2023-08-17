@@ -1,0 +1,33 @@
+.home-div{
+   background-image: url('../../src/images/background.jpg');
+   background-repeat: no-repeat;
+   background-color:white;
+  background-size: 100% 150%;
+  background-position: top;
+}
+
+.header-button{
+   background-color: #000524 !important;
+}
+.portfolio-img{
+   size: 100%;
+
+}
+#portfolio-wrapper{
+   width: 110%;
+}
+#port-btn{
+   position: right !important;
+   background-color: #000524 !important;
+   font: 16px/30px 'opensans-bold', sans-serif;
+   background: red;
+   display: inline-block;
+   text-decoration: none;
+   letter-spacing: 0;
+   color: #fff;
+   padding: 12px 20px;
+   margin-bottom: 18px;
+   border: none;
+   cursor: pointer;
+   height: auto;
+}
